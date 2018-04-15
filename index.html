@@ -45,6 +45,11 @@
   <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/external-script.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+  </script>
 </body>
 
 </html>
