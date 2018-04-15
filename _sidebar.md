@@ -1,3 +1,3 @@
-+ JavaScript
+- JavaScript
 
-    - [常用Time代码](./JavaScript/常用Time代码.md)
+    - [常用Time代码](JavaScript/常用Time代码.md)
