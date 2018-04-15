@@ -38,4 +38,15 @@ function getFirstMonthday(){
     return getFormatDate(firstmonthday);
 }
 
+/**
+ * 日期比较大小(获取`天数)
+ */
+
+function getDays(fday, tday) {
+    var fday = new Date(fday);
+    var tday = new Date(tday);
+    var times = fday.getTime() - tday.getTime();
+    var day = times / (1000 * 60 * 60 * 24);
+    return parseInt(day)
+}
 ```
