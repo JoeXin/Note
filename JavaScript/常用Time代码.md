@@ -39,7 +39,7 @@ function getFirstMonthday(){
 }
 
 /**
- * 日期比较大小(获取`天数)
+ * 日期比较大小(获取天数)
  */
 
 function getDays(fday, tday) {
