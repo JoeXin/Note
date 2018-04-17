@@ -49,4 +49,16 @@ function getDays(fday, tday) {
     var day = times / (1000 * 60 * 60 * 24);
     return parseInt(day)
 }
+
+
+function isSameYear(s, e) {
+    var startyear = "", endyear = "";
+    startyear = new Date(s).getFullYear();
+    endyear = new Date(e).getFullYear();
+    if (endyear != startyear) {
+        return true;
+    } else {
+        return false;
+    }
+}
 ```
