@@ -41,7 +41,6 @@ function getFirstMonthday(){
 /**
  * 日期比较大小(获取天数)
  */
-
 function getDays(fday, tday) {
     var fday = new Date(fday);
     var tday = new Date(tday);
@@ -51,6 +50,9 @@ function getDays(fday, tday) {
 }
 
 
+/**
+ * 判断是否为同一年
+ */
 function isSameYear(s, e) {
     var startyear = "", endyear = "";
     startyear = new Date(s).getFullYear();
