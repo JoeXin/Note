@@ -4,10 +4,12 @@
     - [基础](CSS/README.md)
 - JavaScript
     - [常用Time代码](JavaScript/常用Time代码.md)
+    - [数据格式化](JavaScript/数据格式化.md)
 - es6
     - [语法学习](ECMAScript6/README.md)
 - React
     - [认识](React/README.md)
+    - [路由跳转](React/列表进入详情.md)
 - Vue
     - [认识](Vue/README.md)
 - Webpack
