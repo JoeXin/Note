@@ -7,6 +7,6 @@
 - es6
     - [语法学习](ECMAScript6/README.md)
 - react
-    - [认识](REACT/README.md)
+    - [认识](React/README.md)
 - vue
-    - [认识](VUE/README.md)
+    - [认识](Vue/README.md)
