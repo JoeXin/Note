@@ -5,7 +5,7 @@
 - JavaScript
     - [常用Time代码](JavaScript/常用Time代码.md)
 - es6
-    - [语法学习](ECMAScript 6/README.md)
+    - [语法学习](ECMAScript6/README.md)
 - react
     - [认识](REACT/README.md)
 - vue
