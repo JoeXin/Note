@@ -6,6 +6,7 @@
     - [常用Time代码](JavaScript/常用Time代码.md)
     - [数据格式化](JavaScript/数据格式化.md)
     - [常用到的代码](JavaScript/工作中常用的代码.md)
+    - [正则学习使用](JavaScript/正则学习使用.md)
 - es6
     - [语法学习](ECMAScript6/README.md)
 - React
