@@ -15,6 +15,6 @@
     - [路由跳转](React/列表进入详情.md)
 - Vue
     - [认识](Vue/README.md)
-    - [vue-router](Vue/vue-router query和params传参的区别.md)
+    - [vue-router](Vue/query和params传参的区别.md)
 - Webpack
     - [认识](Webpack/README.md)
