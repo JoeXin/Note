@@ -3,9 +3,10 @@
 - CSS
     - [基础](CSS/README.md)
 - JavaScript
+    - [Array数组](JavaScript/Array数组对象.md)
+    - [常用到的代码](JavaScript/工作中常用的代码.md)
     - [常用Time代码](JavaScript/常用Time代码.md)
     - [数据格式化](JavaScript/数据格式化.md)
-    - [常用到的代码](JavaScript/工作中常用的代码.md)
     - [正则学习使用](JavaScript/正则学习使用.md)
 - es6
     - [语法学习](ECMAScript6/README.md)
@@ -14,5 +15,6 @@
     - [路由跳转](React/列表进入详情.md)
 - Vue
     - [认识](Vue/README.md)
+    - [vue-router](Vue/vue-router query和params传参的区别.md)
 - Webpack
     - [认识](Webpack/README.md)
